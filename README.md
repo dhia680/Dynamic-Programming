@@ -1,5 +1,5 @@
 # Dynamic-Programming
-Solving three Optimization Problems with Dynamic Programming: <br>
+Solving three optimization problems with dynamic programming: <br>
 1- Maintenance Problem. <br>
 2- Stock Management. <br>
 3- Dice trading. <br>
